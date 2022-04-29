@@ -1,6 +1,6 @@
 ## netcore-react-saas-kit
 
-.NET + React SaaS template, TypeScript, Tailwind CSS, Modular persisted store, Meta-tags, i18n, Front/Admin/App pages, Vite
+.NET + React SaaS template, TypeScript, Tailwind CSS, Modular persisted store, Meta-tags, i18n, Front/Auth/Admin/App pages, Vite
 
 ![.NET + React SaaS kit](https://yahooder.sirv.com/saasfrontends/oss/dotnet-react.png)
 
